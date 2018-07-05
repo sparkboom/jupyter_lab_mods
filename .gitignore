@@ -1,3 +1,4 @@
-!staging/node_modules
-!extensions
-!staging/build
+!/staging/node_modules
+!/extensions/*.*
+!/staging/build
+!/yarn-error.log
