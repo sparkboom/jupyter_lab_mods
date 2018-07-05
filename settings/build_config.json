@@ -1,0 +1,7 @@
+{
+    "local_extensions": {
+        "jupyterlab-monaco": "/Users/mmcleod/Desktop/local-repos/samples/python/extensions/jupyterlab-monaco"
+    },
+    "linked_packages": {},
+    "uninstalled_core_extensions": []
+}

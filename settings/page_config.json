@@ -1,0 +1,8 @@
+{
+    "disabledExtensions": [
+        "jupyterlab_materialdarker",
+        "@oriolmirosa/jupyterlab_materialdarker",
+        "@jupyterlab/katex-extension",
+        "@jupyterlab/plotly-extension"
+    ]
+}
